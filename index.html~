@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>João Gross</title>
+        <title>Page Not Found</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
 
@@ -52,8 +52,8 @@
         </style>
     </head>
     <body>
-        <h1>João Gross</h1>
-        <p>Oi, eu sou o Goku.</p>
+        <h1>Page Not Found</h1>
+        <p>Sorry, but the page you were trying to view does not exist.</p>
     </body>
 </html>
 <!-- IE requires 512+ bytes: http://www.404-error-page.com/404-error-page-too-short-problem-microsoft-ie.shtml -->
